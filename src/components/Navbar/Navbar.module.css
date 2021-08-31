@@ -1,0 +1,52 @@
+nav{
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 700;
+    /* background-color: #fffefe;; */
+}
+
+.nav_div{
+    display: flex;
+    /* justify-content: flex-start; */
+}
+
+.navlink{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 0 1rem;
+}
+
+.navhamburger{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 3rem;
+}
+
+.navicon{
+    color: rgb(243, 209, 209);
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    text-align: center;
+    height: auto;
+    margin-left: 3rem;
+}
+.logo{
+    border-radius: 100%;
+    width: 100px;
+}
+
+
+/* @media screen and  (max-width: 400px) {
+    position: absolute;
+
+} */

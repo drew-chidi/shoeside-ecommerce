@@ -1,0 +1,10 @@
+.feature_container{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.1)),
+    url('../../Assets/Shoes-01.jpg');
+    height: 100vh;
+    background-position: center;
+    max-height: 500px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
